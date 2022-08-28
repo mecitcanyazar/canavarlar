@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/canavarlar/static/css/main.4f52a19d.css",
+    "main.js": "/canavarlar/static/js/main.3d7a07b6.js",
+    "static/js/787.359f945e.chunk.js": "/canavarlar/static/js/787.359f945e.chunk.js",
+    "index.html": "/canavarlar/index.html",
+    "main.4f52a19d.css.map": "/canavarlar/static/css/main.4f52a19d.css.map",
+    "main.3d7a07b6.js.map": "/canavarlar/static/js/main.3d7a07b6.js.map",
+    "787.359f945e.chunk.js.map": "/canavarlar/static/js/787.359f945e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f52a19d.css",
+    "static/js/main.3d7a07b6.js"
+  ]
+}
